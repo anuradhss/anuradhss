@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<details>
+  <summary>Nothing much, you can expand this if you want !</summary>
+  
+  ![Anuradh's github stats](https://github-readme-stats.vercel.app/api?username=anuradhss&show_icons=true&theme=synthwave)
+</details>
+
 <!--
 **anuradhss/anuradhss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anuradh's github stats](https://github-readme-stats.vercel.app/api?username=anuradhss&show_icons=true&theme=synthwave)
