@@ -1,4 +1,4 @@
-### Hi there, I'm Anuradh 👋
+### Hi there, I'm Anuradh `→` Ich bin Anuradh👋
 
 <p align="center" >
   <img width="220" height="165" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif"><br><br>
