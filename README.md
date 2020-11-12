@@ -1,22 +1,30 @@
 ### Hi there 👋
-![https://github.com/anuradhss](https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif)
-<details>
+
+<p align="center" >
+  <img width="220" height="165" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif"><br><br>
+  
+  <samp>
+    🔭 I’m currently working on 🤔<br>
+    🌱 I’m currently learning 😜<br>
+    👯 I’m looking to collaborate on 🤫<br>
+    🤔 I’m looking for help with 🤝<br>
+    💬 Ask me about 🙄<br>
+    📫 How to reach me: 🤒<br>
+    😄 Pronouns: 🥴<br>
+     ⚡ Fun fact: 🤣<br>
+  </samp>
+  
+</p>
+<hr>
+<samp>
+  <details>
   <summary>Nothing much, you can expand this if you want !</summary>
   
   ![Anuradh's github stats](https://github-readme-stats.vercel.app/api?username=anuradhss&show_icons=true&theme=synthwave)
 </details>
+</samp>
 
-<!--
-**anuradhss/anuradhss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
