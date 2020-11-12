@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![https://github.com/anuradhss](https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif)
 <details>
   <summary>Nothing much, you can expand this if you want !</summary>
   
