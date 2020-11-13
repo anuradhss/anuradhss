@@ -18,7 +18,7 @@
 <hr>
 <samp>
   <details>
-  <summary>Nothing much, you can expand this if you want!</summary>
+  <summary>Nothing much, expand this if you want!</summary>
   
   ![Anuradh's github stats](https://github-readme-stats.vercel.app/api?username=anuradhss&show_icons=true&theme=synthwave)
 </details>
